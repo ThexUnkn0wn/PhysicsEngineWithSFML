@@ -145,6 +145,7 @@
     <ClCompile Include="src\ObjectComponent.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\ComponentType.h" />
     <ClInclude Include="include\Game.h" />
     <ClInclude Include="include\GameObject.h" />
     <ClInclude Include="include\ObjectComponent.h" />
